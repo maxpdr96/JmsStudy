@@ -1,6 +1,5 @@
 package br.com.hidarisoft;
 
-
 import org.apache.activemq.ActiveMQConnectionFactory;
 
 import javax.jms.*;
